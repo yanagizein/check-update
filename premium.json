@@ -1,0 +1,11 @@
+{
+  "status": true,
+  "data": {
+    "_id": "beta.4.1.13",
+    "version": "4.1.13",
+    "commit": "feat: add handling",
+    "url": "https://github.com/neoxr/neoxr-bot/commit/92bafee0cac78edb8b40be89ce4903f8b7e96cad",
+    "type": "beta",
+    "at": 1704609731189
+  }
+}
