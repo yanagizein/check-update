@@ -1,10 +1,10 @@
 {
   "status": true,
   "data": {
-    "_id": "beta.1.1.1",
-    "version": "1.1.1",
-    "commit": "feat: add handling",
-    "url": "https://github.com/neoxr/neoxr-bot/commit/92bafee0cac78edb8b40be89ce4903f8b7e96cad",
+    "_id": "beta.1.1.2",
+    "version": "1.1.2",
+    "commit": "Informasi Update : Tambah Beberapa Fitur & Fix Usage",
+    "url": "Update Telah Tersedia, Harap Update Script Terlebih Dahulu",
     "type": "beta",
     "at": 1704609731189
   }
