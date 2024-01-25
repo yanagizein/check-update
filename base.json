@@ -1,10 +1,10 @@
 {
   "status": true,
   "data": {
-    "_id": "beta.1.1.1",
-    "version": "1.1.1",
-    "commit": "Fix Bug Features",
-    "url": "Update Telah Tersedia, Harap Update Script Terlebih Dahulu",
+    "_id": "beta.1.1.2",
+    "version": "1.1.2",
+    "commit": "Terdapat Fitur Baru : toanime",
+    "url": "Update Telah Tersedia, Harap Update Script Terlebih Dahulu, Jika Ingin Melewati Update, Ubah Versi pada File version.json",
     "type": "beta",
     "at": 1704609731189
   }
