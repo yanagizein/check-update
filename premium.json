@@ -1,10 +1,10 @@
 {
   "status": true,
   "data": {
-    "_id": "beta.4.1.13",
-    "version": "4.1.13",
-    "commit": "feat: add handling",
-    "url": "https://github.com/neoxr/neoxr-bot/commit/92bafee0cac78edb8b40be89ce4903f8b7e96cad",
+    "_id": "beta.4.1.16",
+    "version": "4.1.16",
+    "commit": "fix hercai, +toanime2, +bard-ai, bing-ai, +identify-ai",
+    "url": "Update is available, please update the script first",
     "type": "beta",
     "at": 1704609731189
   }
