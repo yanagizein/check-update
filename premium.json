@@ -1,9 +1,9 @@
 {
   "status": true,
   "data": {
-    "_id": "beta.4.1.17",
-    "version": "4.1.17",
-    "commit": "fix murbug acces, notification murbug expired",
+    "_id": "beta.4.1.20",
+    "version": "4.1.20",
+    "commit": "+ Fitur & System Verify",
     "url": "Update is available, please update the script first",
     "type": "beta",
     "at": 1704609731189
